@@ -8,7 +8,7 @@
 <head></head>
 	<body>
 		<div id='text'>
-			Hello, world!
+		Подождите, скоро вы попадёте на веб-страницу
 		</div>
 
 		<script language="JavaScript">
